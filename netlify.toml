@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/menu"
+  to = "/"
+  status = 301
